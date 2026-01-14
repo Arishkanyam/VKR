@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node / React
+node_modules/
+dist/
+
+# ML / Data
+audio_samples/
+*.h5
+*.pt
+*.pth
+*.ckpt
+*.npy
+
+# Env
+.env
+
+# OS
+.DS_Store
+Thumbs.db
